@@ -1,6 +1,6 @@
 # DMKN
 IST303-Group-Project
-Part A
+###Part A
 Team members:
 Kristina, Naif, Muneer, Desmend
 
