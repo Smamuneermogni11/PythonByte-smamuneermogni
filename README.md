@@ -57,7 +57,12 @@ Project Requirements as User Stories:
 17.As an organization official, I would like to see a demo version of the system after five weeks and a finalized version in 12 weeks.
 
 
-Time Completion: (1 - 11: 6 weeks and from 12 to 16: 8 weeks and 17: 10 weeks)
+Process and Time Completion: 
+
+Database
+Front end (webpage)
+
+(1 - 11: 6 weeks and from 12 to 16: 8 weeks and 17: 10 weeks)
 
 
 
