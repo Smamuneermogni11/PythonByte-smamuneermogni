@@ -6,6 +6,10 @@ Kristina, Naif, Muneer, Desmend
 
 Team name: PythonByte
 
+Development Environment: 
+GUI frontend: HTML, CSS, Bootstrap , Javascript
+Backend: Python, Django Web Framework 
+Database: Microsoft Sql Server
 
 Product:
 Student Enrollment System webpage
