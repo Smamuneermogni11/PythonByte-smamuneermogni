@@ -58,10 +58,8 @@ Project Requirements as User Stories:
 
 
 Process and Time Completion: 
-
-Database
-Front end (webpage)
-
+Database Design and Creating Data Models
+webpage design
 (1 - 11: 6 weeks and from 12 to 16: 8 weeks and 17: 10 weeks)
 
 
