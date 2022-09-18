@@ -16,26 +16,8 @@ Project Description:
 Stakeholders:
 Professors, Students, Organisation Staff members, Managers, Head Officials
   
-User Stories:
-# DMKN
-IST303-Group-Project
-### Part A
-Team members:
-Kristina, Naif, Muneer, Desmend
-
-Team name: PythonByte
-
-
-Product:
-Student Enrollment System webpage
-
-Project Description:
-	The system would allow educational organizations to enroll students into courses and set the program timetable and assign who teaches these courses. The system would have a website as the front end and a database as the back end. 
+Project Requirements as User Stories:
   
-Stakeholders:
-Professors, Students, Organisation Staff members, Managers, Head Officials
-  
-User Stories:
 1.As a Student, I want to access the website and view the available course to enroll in with the time and place, who teaches the course, and how many courses I can enroll in. Also, I would like a short description or link to the course syllabus. I want this to be done with fewer clicks as possible.
 
 2.As a Student, I would like the system to show me a course plan and how my current course will affect my future enrollment.
