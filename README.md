@@ -54,6 +54,8 @@ User Stories:
 16.As an organization official, the front end must be a website built with python 3 and the back end with Microsoft SQL Server. 
 17.As an organization official, I would like to see a demo version of the system after five weeks and a finalized version in 12 weeks.
 
+(1 - 11: 6 weeks and from 12 to 16: 8 weeks and 17: 10 weeks)
+
 
 
 
