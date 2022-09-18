@@ -13,6 +13,9 @@ Student Enrollment System webpage
 Project Description:
 	The system would allow educational organizations to enroll students into courses and set the program timetable and assign who teaches these courses. The system would have a website as the front end and a database as the back end. 
   
+Stakeholders:
+Professors, Students, Organisation Staff members, Managers, Head Officials
+  
 User Stories:
 •	As a Student, I want to access the website and view the available course to enroll in with the time and place, who teaches the course, and how many courses I can enroll in. Also, I would like a short description or link to the course syllabus. I want this to be done with fewer clicks as possible.
 •	 As a Student, I would like the system to show me a course plan and how my current course will affect my future enrollment.
@@ -32,8 +35,7 @@ User Stories:
 •	As an organization official, the front end must be a website built with python 3 and the back end with Microsoft SQL Server. 
 •	As an organization official, I would like to see a demo version of the system after five weeks and a finalized version in 12 weeks.
 
-Stakeholders:
-Professors, Students, Organisation Staff members, Managers, Head Officials
+
 
 
 
