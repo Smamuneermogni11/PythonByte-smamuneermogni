@@ -1,5 +1,5 @@
-<pre>**# PythonByte**
-IST303-Group-Project </pre>
+**# PythonByte**
+IST303-Group-Project   
 **## Part A** 
 **##Team members:** 
 Kristina, Naif, Muneer, Desmend
