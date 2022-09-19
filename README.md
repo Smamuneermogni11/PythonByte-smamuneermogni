@@ -1,26 +1,26 @@
 # **PythonByte**   
-IST303-Group-Project   
-**## Part A**   
-**##Team members:** 
+## IST303-Group-Project   
+## ** Part A**   
+## **Team members:** 
 Kristina, Naif, Muneer, Desmend   
 
-**##Team name: PythonByte**   
+## **Team name: PythonByte**   
 
-**##Development Environment:**
+## **Development Environment:**
 GUI frontend: HTML, CSS, Bootstrap , Javascript   
-**##Backend:** Python, Django Web Framework    
-**##Database:** Microsoft Sql Server   
+## **Backend:** Python, Django Web Framework    
+## **Database:** Microsoft Sql Server   
 
-**##Product:**
+## **Product:**
 Student Enrollment System webpage   
 
-**##Project Description:**
+## **Project Description:**
 	The system would allow educational organizations to enroll students into courses and set the program timetable and assign who teaches these courses. The system would have a website as the front end and a database as the back end.    
   
-**##Stakeholders:**
+## **Stakeholders:**
 Professors, Students, Organisation Staff members, Managers, Head Officials   
   
-**##Project Requirements as User Stories:**   
+## **Project Requirements as User Stories:**   
   
 1.As a Student, I want to access the website and view the available course to enroll in with the time and place, who teaches the course, and how many courses I can enroll in. Also, I would like a short description or link to the course syllabus. I want this to be done with fewer clicks as possible.   
 
@@ -57,7 +57,7 @@ Professors, Students, Organisation Staff members, Managers, Head Officials
 17.As an organization official, I would like to see a demo version of the system after five weeks and a finalized version in 12 weeks.    
 
 
-**##Process and Time Completion:**    
+## **Process and Time Completion:**    
 Database Design and Creating Data Models   
 webpage design   
 (1 - 11: 6 weeks and from 12 to 16: 8 weeks and 17: 10 weeks)
