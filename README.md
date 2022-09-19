@@ -1,7 +1,7 @@
 # **PythonByte**   
 ## IST303-Group-Project    
 ## **Team members:** 
-Kristina, Naif, Muneer, Desmend   
+KRISTINA, NAIF, MUNEER, DESMEND       
 
 ## **Team name: PythonByte**   
 
