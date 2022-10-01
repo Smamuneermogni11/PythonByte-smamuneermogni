@@ -67,6 +67,8 @@ Current: 4 hours per week
 
 # Stand Up Meeting:
 
+https://cgu0-my.sharepoint.com/:w:/g/personal/naif_alblawi_cgu_edu/ETbM1UMhSCBIk1TWXlAk8RgB1zL2sjUGkMI1gdLABZNXiQ?e=b1Bibx
+
 # Functional and Test Code:
 
 
