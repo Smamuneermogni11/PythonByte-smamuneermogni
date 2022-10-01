@@ -63,7 +63,7 @@ Current: 4 hours per week
 
 # Burn Down Chart:
 
-https://cgu0-my.sharepoint.com/:x:/r/personal/naif_alblawi_cgu_edu/Documents/IST303%20SD%20project/Burn%20Down%20Chart.xlsx?d=wca40ff1d100f49fb9acf4483fc7b4ce9&csf=1&web=1&e=b57vSH
+[https://cgu0-my.sharepoint.com/:x:/r/personal/naif_alblawi_cgu_edu/Documents/IST303%20SD%20project/Burn%20Down%20Chart.xlsx?d=wca40ff1d100f49fb9acf4483fc7b4ce9&csf=1&web=1&e=b57vSH](https://cgu0-my.sharepoint.com/:x:/g/personal/naif_alblawi_cgu_edu/EbCUGVcGgQhFhw6ms9QRkyoBjbVyxxy0AC-dhmHFM0yjsQ?e=fc0rfN)
 
 # Stand Up Meeting:
 
