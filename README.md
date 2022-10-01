@@ -20,7 +20,7 @@ Student Enrollment System webpage
 ## **Stakeholders:**
 Professors, Students, Organisation Staff members, Managers, Head Officials   
   
-## **Project Requirements as User Stories:**   
+## **Decomposed User Stories into Tasks:**   
   
 1.As a Student, I want to access the website and view the available course to enroll in with the time and place, who teaches the course, and how many courses I can enroll in. Also, I would like a short description or link to the course syllabus. I want this to be done with fewer clicks as possible.(1 - 6 weeks)         
 
