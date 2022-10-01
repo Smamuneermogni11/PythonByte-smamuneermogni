@@ -66,8 +66,7 @@ webpage design
 [embed]https://github.com/Smamuneermogni11/PythonByte/blob/7c9d8d0ce8f3daf3a0e2a7a924a9f31a504bf7bb/User%20Stories%20broken%20into%20Tasks%20with%20Team%20Member%20Allocated.pdf
 [/embed]
 
-User Stories broken into Tasks with Team Member Allocated.pdf
-
+https://github.com/Smamuneermogni11/PythonByte/blob/dbd955c6568bd190501809b20042b123f04677fa/User%20Stories%20broken%20into%20Tasks%20with%20Team%20Member%20Allocated.pdf
 
 
 
