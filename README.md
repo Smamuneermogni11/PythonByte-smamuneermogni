@@ -69,8 +69,25 @@ Current: 4 hours per week
 
 https://cgu0-my.sharepoint.com/:w:/g/personal/naif_alblawi_cgu_edu/ETbM1UMhSCBIk1TWXlAk8RgB1zL2sjUGkMI1gdLABZNXiQ?e=b1Bibx
 
-# Functional and Test Code:
+# Instructions for Visual Studio Code:
 
+Install Flask:
+
+venv/Scripts/activate.bat
+
+python -m pip install --upgrade pip
+
+python -m pip install flask
+
+To run the code:
+
+python -m flask run
+
+After getting the website link:
+
+Hold Ctrl button and click on the link:
+
+Output: PythonByte
 
 
 
