@@ -89,6 +89,17 @@ Hold Ctrl button and click on the link:
 
 Output: PythonByte
 
+# Run Application Command
+
+### Mac OS
+source ./venv/bin/activate 
+### Windows OS
+execute/run "activate" file
+
+Stop server by Ctrl + C
+
+
+
 
 
 
