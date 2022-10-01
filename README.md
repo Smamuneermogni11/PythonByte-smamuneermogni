@@ -23,17 +23,53 @@ Professors, Students, Organisation Staff members, Managers, Head Officials
 ## **Decomposed User Stories into Tasks:**   
   [embed]https://github.com/Smamuneermogni11/PythonByte/blob/dbd955c6568bd190501809b20042b123f04677fa/User%20Stories%20broken%20into%20Tasks%20with%20Team%20Member%20Allocated.pdf[/embed]        
 
+## Features in Milestone 1: 
 
-## **Process and Time Completion:**    
-Database Design and Creating Data Models   
-webpage design   
-(1 - 11: 6 weeks and from 12 to 16: 8 weeks and 17: 10 weeks)
+Backend: Database Backbone (Create Tables, Users Table and rols)  
+
+Frontend: Web Page (Main: login page ,Student: Enrolment, Student: Courses Plan, Student: future Courses Plan, Lecturer: Timetable, Lecturer: Student Lists)
+
+## 2 Iterations for Milestone 1 (4 weeks):
+Iteration 1 (2 weeks): 
+
+1. Develop Database Design 
+
+2. Create Flask Project and Venv 
+
+3. Create Database.	 
+
+Iteration 2 (2 weeks): 
+
+1. Create Template and Style.  
+
+2. Create Webpage: (Main: login page ,Student: Enrolment, Student: Courses Plan, Student: future Courses Plan, Lecturer: Timetable, Lecturer: Student Lists) 
+
+## Calculate Velocity:
+
+Timeline: 4 weeks to milestone 1, 5 weeks to milestone 2
+
+Iteration 1: 3 user stories x 8 story points = 24
+Iteration 2: 7 user stories x 8 story points = 56
+
+Total = 80
+
+So, your average sprint velocity is 80 ÷ 2 = 40.
+
+Starting velocity: 40 %
+Total: 6 hours per week
+Current: 4 hours per week
+
+## Allocate tasks to each team member and record the allocation:
+
+# Burn Down Chart:
+
+https://cgu0-my.sharepoint.com/:x:/r/personal/naif_alblawi_cgu_edu/Documents/IST303%20SD%20project/Burn%20Down%20Chart.xlsx?d=wca40ff1d100f49fb9acf4483fc7b4ce9&csf=1&web=1&e=b57vSH
+
+# Stand Up Meeting:
+
+# Functional and Test Code:
 
 
-
-[embed]https://github.com/Smamuneermogni11/PythonByte/blob/dbd955c6568bd190501809b20042b123f04677fa/User%20Stories%20broken%20into%20Tasks%20with%20Team%20Member%20Allocated.pdf[/embed]
-
-<object data="../assets/path/to/document.pdf" width="1000" height="1000" type='application/pdf'></object>
 
 
 
