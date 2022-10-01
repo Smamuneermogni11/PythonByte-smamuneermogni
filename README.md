@@ -63,7 +63,9 @@ webpage design
 (1 - 11: 6 weeks and from 12 to 16: 8 weeks and 17: 10 weeks)
 
 
-[embed]UserStories(https://cgu0-my.sharepoint.com/:b:/r/personal/naif_alblawi_cgu_edu/Documents/IST303%20SD%20project/User%20Stories%20broken%20into%20Tasks%20with%20Team%20Member%20Allocated.pdf?csf=1&web=1&e=hdLvE7).pdf[/embed]
+[embed]https://cgu0-my.sharepoint.com/:b:/g/personal/naif_alblawi_cgu_edu/Ed93z-J3eCJPt1VddeV6oYkBsVOFyM1iiFTcZ3Dr-odeFA?e=7sbYJ8
+[/embed]
+
 
 
 
