@@ -19,8 +19,8 @@ Student Enrollment System webpage
   
 ## **Stakeholders:**
 Professors, Students, Organisation Staff members, Managers, Head Officials   
-  
-## **Decomposed User Stories into Tasks:**   
+    
+## **Decomposed User Stories into Tasks and Allocate tasks to each team member and record the allocation:**  
   [embed]https://github.com/Smamuneermogni11/PythonByte/blob/dbd955c6568bd190501809b20042b123f04677fa/User%20Stories%20broken%20into%20Tasks%20with%20Team%20Member%20Allocated.pdf[/embed]        
 
 ## Features in Milestone 1: 
@@ -53,13 +53,12 @@ Iteration 2: 7 user stories x 8 story points = 56
 
 Total = 80
 
-So, your average sprint velocity is 80 ÷ 2 = 40.
+So, your average velocity is 80 ÷ 2 = 40.
 
 Starting velocity: 40 %
 Total: 6 hours per week
 Current: 4 hours per week
 
-## Allocate tasks to each team member and record the allocation:
 
 # Burn Down Chart:
 
@@ -71,15 +70,22 @@ https://cgu0-my.sharepoint.com/:w:/g/personal/naif_alblawi_cgu_edu/ETbM1UMhSCBIk
 
 # Instructions for Visual Studio Code:
 
-Install Flask:
+# Instruction to virtual environment:
 
-venv/Scripts/activate.bat
+1. venv/Scripts/activate.bat
+2. python -m pip install --upgrade pip
 
-python -m pip install --upgrade pip
-
-python -m pip install flask
+3. python -m pip install flask
 
 To run the code:
+
+def test_front_page(client):
+    response = client.get("/posts")
+    assert b"<h2>PythonByte!</h2>" in response.data
+    
+    paste this code in visual studio code
+    
+    Then run this code in terminal:
 
 python -m flask run
 
@@ -87,16 +93,19 @@ After getting the website link:
 
 Hold Ctrl button and click on the link:
 
-Output: PythonByte
+(venv) C:\Users\Muneer\Desktop\work>python -m flask run
+ * Debug mode: off
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on http://127.0.0.1:5000
+Press CTRL+C to quit
+127.0.0.1 - - [01/Oct/2022 16:01:51] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [01/Oct/2022 16:01:51] "GET /favicon.ico HTTP/1.1" 404 -
 
-# Run Application Command
+ *  History restored 
 
-### Mac OS
-source ./venv/bin/activate 
-### Windows OS
-execute/run "activate" file
 
-Stop server by Ctrl + C
+
+
 
 
 
