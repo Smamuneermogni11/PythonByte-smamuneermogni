@@ -104,6 +104,26 @@ Press CTRL+C to quit
 # Testing the web page: 
 
 $ pip install pytest
+from front_page import app
+
+def test_front_page():
+    response = app.test_client().get('/')
+
+    assert response.status_code == 200
+    assert response.data == b'PythonByte!'
+    
+## To run the test:
+pytest test_front_page.py
+
+Output:
+(venv) C:\Users\Muneer\Desktop\work>pytest test_front_page.py
+========================================================== test session starts ===========================================================
+platform win32 -- Python 3.10.6, pytest-7.1.3, pluggy-1.0.0
+rootdir: C:\Users\Muneer\Desktop\work
+collected 1 item
+
+test_front_page.py .                                                                                                                [100%]
+
 
 
 
