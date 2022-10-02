@@ -72,16 +72,14 @@ https://cgu0-my.sharepoint.com/:w:/g/personal/naif_alblawi_cgu_edu/ETbM1UMhSCBIk
 
 # Instruction to virtual environment:
 
-1. venv/Scripts/activate.bat
+1. venv\Scripts\activate.bat
 2. python -m pip install --upgrade pip
 
 3. python -m pip install flask
 
-To run the code:
+## To run the code:
 
-def test_front_page(client):
-    response = client.get("/posts")
-    assert b"<h2>PythonByte!</h2>" in response.data
+
     
     paste this code in visual studio code
     
@@ -102,6 +100,11 @@ Press CTRL+C to quit
 127.0.0.1 - - [01/Oct/2022 16:01:51] "GET /favicon.ico HTTP/1.1" 404 -
 
  *  History restored 
+
+# Testing the web page: 
+
+$ pip install pytest
+
 
 
 
