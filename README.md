@@ -6,16 +6,19 @@ KRISTINA, NAIF, MUNEER, DESMEND
 ## **Team name: PythonByte**   
 
 ## **Development Environment:**
-GUI frontend: HTML, CSS, Bootstrap , Javascript   
-## **Backend:** Python 3.10, Flask Web Framework    
-## **Database:** Microsoft Sql Server   
+**Frontend:** HTML, CSS, Bootstrap , Javascript   
+**Backend:** Python 3.10, Flask Web Framework, Virtual Environment , Microsoft Sql Server Database    
+
 
 ## **Product:**
-Student Enrollment System webpage   
+Student Enrollment System Website   
 
 ## **Project Description:**
-	The system would allow educational organizations to enroll students into courses and set the program timetable and assign who teaches these courses.
-	The system would have a website as the front end and a database as the back end.      
+
+The Website is designed to serve educational organizations that will allow students to enroll in courses, with features such as printing several reports (timetable, location, courses, student list), implemented academic calendar, future course plans, and statical information. The organization will have control over the website with multiple rolls such as managers, lectures, and staff, each with their special features from printing reports to updating the data. 
+The main objective is to construct a system that allows students to plan efficiently when enrolling in courses and have a better perspective of the requirement and the timeframe to finish their degree. The website will provide guidelines and alternative course plans. 
+
+  
   
 ## **Stakeholders:**
 Lecturers, Students, Regustration Staff Members, Regustration Managers, Head Officials   
