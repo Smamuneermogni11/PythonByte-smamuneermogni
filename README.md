@@ -21,7 +21,7 @@ Student Enrollment System webpage
 Professors, Students, Organisation Staff members, Managers, Head Officials   
     
 ## **Decomposed User Stories into Tasks and Allocate tasks to each team member and record the allocation:**  
-  [embed]https://github.com/Smamuneermogni11/PythonByte/blob/dbd955c6568bd190501809b20042b123f04677fa/User%20Stories%20broken%20into%20Tasks%20with%20Team%20Member%20Allocated.pdf[/embed]        
+ [Link](https://github.com/Smamuneermogni11/PythonByte/blob/dbd955c6568bd190501809b20042b123f04677fa/User%20Stories%20broken%20into%20Tasks%20with%20Team%20Member%20Allocated.pdf)       
 
 ## Features in Milestone 1: 
 
@@ -62,11 +62,11 @@ Current: 4 hours per week
 
 # Burn Down Chart:
 
-[https://cgu0-my.sharepoint.com/:x:/r/personal/naif_alblawi_cgu_edu/Documents/IST303%20SD%20project/Burn%20Down%20Chart.xlsx?d=wca40ff1d100f49fb9acf4483fc7b4ce9&csf=1&web=1&e=b57vSH](https://cgu0-my.sharepoint.com/:x:/g/personal/naif_alblawi_cgu_edu/EbCUGVcGgQhFhw6ms9QRkyoBjbVyxxy0AC-dhmHFM0yjsQ?e=fc0rfN)
+[Link](https://cgu0-my.sharepoint.com/:x:/g/personal/naif_alblawi_cgu_edu/EbCUGVcGgQhFhw6ms9QRkyoBjbVyxxy0AC-dhmHFM0yjsQ?e=fc0rfN)
 
 # Stand Up Meeting:
 
-https://cgu0-my.sharepoint.com/:w:/g/personal/naif_alblawi_cgu_edu/ETbM1UMhSCBIk1TWXlAk8RgB1zL2sjUGkMI1gdLABZNXiQ?e=b1Bibx
+[Link](https://cgu0-my.sharepoint.com/:w:/g/personal/naif_alblawi_cgu_edu/ETbM1UMhSCBIk1TWXlAk8RgB1zL2sjUGkMI1gdLABZNXiQ?e=b1Bibx)
 
 # Instructions for Visual Studio Code:
 
