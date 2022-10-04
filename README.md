@@ -7,7 +7,7 @@ KRISTINA, NAIF, MUNEER, DESMEND
 
 ## **Development Environment:**
 GUI frontend: HTML, CSS, Bootstrap , Javascript   
-## **Backend:** Python, Flask Web Framework    
+## **Backend:** Python 3.10, Flask Web Framework    
 ## **Database:** Microsoft Sql Server   
 
 ## **Product:**
