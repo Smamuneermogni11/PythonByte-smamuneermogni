@@ -90,6 +90,8 @@ Current: 4 hours per week
 
 python -m flask run
 
+When renamed the flask file: set Flask_APP=front_page
+
 After getting the website link:
 
 Hold Ctrl button and click on the link:
