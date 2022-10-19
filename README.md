@@ -115,10 +115,9 @@ pip install -U Flask
 
 4. Flask run
 
- *  History restored 
 
 # Testing the web page: 
-
+For windows: 
 $ pip install pytest
 from front_page import app
 
@@ -127,8 +126,13 @@ def test_front_page():
 
     assert response.status_code == 200
     assert response.data == b'PythonByte!'
+  For MacOS and Linux:
+  pip3 install pytest
+  
+    
     
 ## To run the test:
+For windows: 
 pytest test_front_page.py
 
 Output:
@@ -140,8 +144,8 @@ collected 1 item
 
 test_front_page.py .                                                                                                                [100%]
 
-
-
+For MacOS and Linux: 
+pytest test_front_page.py
 
 
 
