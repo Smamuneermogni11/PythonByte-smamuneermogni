@@ -75,15 +75,13 @@ Current: 4 hours per week
 
 # Instruction to virtual environment:
 
-1. venv\Scripts\activate.bat
-2. python -m pip install --upgrade pip
+### For windows user:
+1.C:\> pip install virtualenv
+2. venv\Scripts\activate.bat
+3. python -m pip install --upgrade pip
 
-3. python -m pip install flask
-
-## To run the code:
-
-
-    
+4. python -m pip install flask
+  
     paste this code in visual studio code
     
     Then run this code in terminal:
@@ -93,7 +91,7 @@ python -m flask run
 When renamed the flask file: set Flask_APP=front_page
 
 After getting the website link:
-
+### Output:
 Hold Ctrl button and click on the link:
 
 (venv) C:\Users\Muneer\Desktop\work>python -m flask run
@@ -103,6 +101,19 @@ WARNING: This is a development server. Do not use it in a production deployment.
 Press CTRL+C to quit
 127.0.0.1 - - [01/Oct/2022 16:01:51] "GET / HTTP/1.1" 200 -
 127.0.0.1 - - [01/Oct/2022 16:01:51] "GET /favicon.ico HTTP/1.1" 404 -
+
+
+### For MacOS and Linux user:
+1. Open Any Terminal and run below command:
+python -m venv venv
+2. Activate the Virtual Environment:
+For Linux Based OS Or Mac-OS.
+pip3 install --upgrade pip
+source venv/bin/activate
+3. Installing Flask:
+pip install -U Flask
+
+4. Flask run
 
  *  History restored 
 
@@ -128,6 +139,9 @@ rootdir: C:\Users\Muneer\Desktop\work
 collected 1 item
 
 test_front_page.py .                                                                                                                [100%]
+
+
+
 
 
 
