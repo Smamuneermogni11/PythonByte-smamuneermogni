@@ -77,7 +77,9 @@ Current: 4 hours per week
 
 ### For windows user:
 1.C:\> pip install virtualenv
+
 2. venv\Scripts\activate.bat
+
 3. python -m pip install --upgrade pip
 
 4. python -m pip install flask
